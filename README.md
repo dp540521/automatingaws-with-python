@@ -1,2 +1,7 @@
-# This is automatingaws-with-python
-This is the repository for Git lb for *This is my automation repository for AWS*
+# This is Automating AWS with Python course
+This is the repository for the automation training *This is my automation repository for AWS*
+
+
+## 01-Webtron
+
+Webtron is a script used for syncing a local file to S3 bucket and also optionally used for configuring the route53 and CDN
