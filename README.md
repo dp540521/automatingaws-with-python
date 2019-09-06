@@ -12,3 +12,4 @@ Webtron has the following features
 
 - List-Buckets
 - List Bucket contents
+- Configure and setup_bucket
