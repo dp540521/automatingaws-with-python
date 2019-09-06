@@ -5,3 +5,10 @@ This is the repository for the automation training *This is my automation reposi
 ## 01-Webtron
 
 Webtron is a script used for syncing a local file to S3 bucket and also optionally used for configuring the route53 and CDN
+
+## Features
+
+Webtron has the following features
+
+- List-Buckets
+- List Bucket contents
